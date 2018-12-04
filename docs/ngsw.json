@@ -1,0 +1,85 @@
+{
+  "configVersion": 1,
+  "index": "https://oyemiboardroom.github.io/dara/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://oyemiboardroom.github.io/dara/favicon.ico",
+        "https://oyemiboardroom.github.io/dara/index.html",
+        "https://oyemiboardroom.github.io/dara/main.0279705232a959a0a59b.js",
+        "https://oyemiboardroom.github.io/dara/polyfills.846fc4cd67b7808c5e09.js",
+        "https://oyemiboardroom.github.io/dara/runtime.ec2944dd8b20ec099bf3.js",
+        "https://oyemiboardroom.github.io/dara/styles.5b332e25920e8fb663b5.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://oyemiboardroom.github.io/dara/assets/icons/icon-128x128.png",
+        "https://oyemiboardroom.github.io/dara/assets/icons/icon-144x144.png",
+        "https://oyemiboardroom.github.io/dara/assets/icons/icon-152x152.png",
+        "https://oyemiboardroom.github.io/dara/assets/icons/icon-192x192.png",
+        "https://oyemiboardroom.github.io/dara/assets/icons/icon-384x384.png",
+        "https://oyemiboardroom.github.io/dara/assets/icons/icon-512x512.png",
+        "https://oyemiboardroom.github.io/dara/assets/icons/icon-72x72.png",
+        "https://oyemiboardroom.github.io/dara/assets/icons/icon-96x96.png",
+        "https://oyemiboardroom.github.io/dara/assets/images/card.gif",
+        "https://oyemiboardroom.github.io/dara/assets/images/card.jpg",
+        "https://oyemiboardroom.github.io/dara/assets/images/card.png",
+        "https://oyemiboardroom.github.io/dara/assets/images/help.jpg",
+        "https://oyemiboardroom.github.io/dara/assets/images/help15.jpg",
+        "https://oyemiboardroom.github.io/dara/assets/images/help2.jpg",
+        "https://oyemiboardroom.github.io/dara/assets/images/help3.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://oyemiboardroom.github.io/dara/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://oyemiboardroom.github.io/dara/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://oyemiboardroom.github.io/dara/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://oyemiboardroom.github.io/dara/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://oyemiboardroom.github.io/dara/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://oyemiboardroom.github.io/dara/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://oyemiboardroom.github.io/dara/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://oyemiboardroom.github.io/dara/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://oyemiboardroom.github.io/dara/assets/images/card.gif": "31d95fb2d88c224f0554cdfc501e69b8963e4a13",
+    "https://oyemiboardroom.github.io/dara/assets/images/card.jpg": "844bddc4e0c372ee76b2148822de15452ddae07d",
+    "https://oyemiboardroom.github.io/dara/assets/images/card.png": "a78c256f2f2afbd482b5b90c72e30e490784fdb9",
+    "https://oyemiboardroom.github.io/dara/assets/images/help.jpg": "6a63ebeb68393ca4b718f5ecd4489376606df2c7",
+    "https://oyemiboardroom.github.io/dara/assets/images/help15.jpg": "5dd33280ecd2e34a579d8d3a9d3f8a09d0560c4e",
+    "https://oyemiboardroom.github.io/dara/assets/images/help2.jpg": "0bd9fdc5279bfcf678778d5a11f5b2c5649e87cf",
+    "https://oyemiboardroom.github.io/dara/assets/images/help3.jpg": "098fc3e37f7fa17b980dd82ba5877bfe76033412",
+    "https://oyemiboardroom.github.io/dara/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://oyemiboardroom.github.io/dara/index.html": "ba908ca940f9db62423d640ec7d00fe8dca0b79d",
+    "https://oyemiboardroom.github.io/dara/main.0279705232a959a0a59b.js": "24dced2c4897fa493fdab0d5b2e3e78321553d5e",
+    "https://oyemiboardroom.github.io/dara/polyfills.846fc4cd67b7808c5e09.js": "5f34b61c0c240304a671a1b1289e93420cf5d1af",
+    "https://oyemiboardroom.github.io/dara/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://oyemiboardroom.github.io/dara/styles.5b332e25920e8fb663b5.css": "a5f50a175e5f6074df731076abc4dc506292ce85"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
